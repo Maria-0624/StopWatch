@@ -6,7 +6,7 @@ It includes features like **Start**, **Pause**, **Reset**, **Restart**, **Lap Tr
 ---
 ## 📸 Preview
 
-![StopWatch](./images/StopWatch.jpg)
+![StopWatch](./StopWatch.jpg)
 
 
 ## 🎯 Features
