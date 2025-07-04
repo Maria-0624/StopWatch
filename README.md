@@ -26,10 +26,5 @@ It includes features like **Start**, **Pause**, **Reset**, **Restart**, **Lap Tr
 - **CSS** – Styling and responsive design  
 - **JavaScript** – Stopwatch functionality and lap logic
 
----
-
-## 📸 Preview
-
-![StopWatch](./StopWatch.jpg)
 
 
